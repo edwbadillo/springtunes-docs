@@ -26,4 +26,4 @@ Permite a los usuarios explorar, escuchar y organizar música, mientras integra 
 
 ## 🔗 Arquitectura general
 
-<img src="./assets/arquitectura-general.jpg" alt="Architecture" width="550" />
+<img src="/assets/arquitectura-general.jpg" alt="Architecture" width="550" />
