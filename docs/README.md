@@ -9,7 +9,6 @@ Permite a los usuarios explorar, escuchar y organizar música, mientras integra 
 - [Backend](https://github.com/edwbadillo/springtunes-api) desarrollado con Spring Boot 3.5, PostgreSQL 16, Docker.
 - [Frontend](https://github.com/edwbadillo/springtunes-ui) desarrollado en Angular 20.
 
-
 ## 🛠️ Tecnologías principales
 
 - **Backend**: Java 21, Spring Boot 3.5, API Docs (Swagger)
