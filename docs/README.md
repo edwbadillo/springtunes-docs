@@ -4,6 +4,12 @@
 
 Permite a los usuarios explorar, escuchar y organizar música, mientras integra un sistema de aprobación para artistas y contenido.
 
+## Repositorios
+
+- [Backend](https://github.com/edwbadillo/springtunes-api) desarrollado con Spring Boot 3.5, PostgreSQL 16, Docker.
+- [Frontend](https://github.com/edwbadillo/springtunes-ui) desarrollado en Angular 20.
+
+
 ## 🛠️ Tecnologías principales
 
 - **Backend**: Java 21, Spring Boot 3.5, API Docs (Swagger)
@@ -19,10 +25,11 @@ Permite a los usuarios explorar, escuchar y organizar música, mientras integra 
 ## 🔑 Funcionalidades  
 
 - Registro y autenticación segura mediante AWS Cognito.
+- Autorización de usuarios basado en un sistema de roles (`USER`, `ARTIST`, `ADMIN`)
 - Solicitud y aprobación de perfiles de artista.
 - Subida y revisión de canciones antes de su publicación.
 - Reproducción de audio vía streaming.
-- Creación de playlists, favoritos y sistema de roles (`USER`, `ARTIST`, `ADMIN`).
+- Creación de playlists, favoritos.
 
 ## 🔗 Arquitectura general
 
